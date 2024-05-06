@@ -1,0 +1,111 @@
+1-O programa solicita ao usuário o nome do aluno e as notas das três provas.
+Em seguida, calcula a média aritmética das notas.
+Por fim, exibe o nome do aluno e sua média.
+
+2-Solicita ao usuário a distância total percorrida e o total de combustível gasto.
+Calcula o consumo médio do automóvel, dividindo a distância total pelo total de combustível gasto.
+Exibe o consumo médio.
+
+3-Solicita ao usuário o nome do vendedor, seu salário fixo e o total de vendas efetuadas.
+Calcula a comissão do vendedor (15% do total de vendas).
+Calcula o salário final do vendedor somando seu salário fixo com a comissão.
+Exibe o nome do vendedor, seu salário fixo e o salário final.
+
+4-Solicita ao usuário a cotação do dólar e a quantidade de dólares.
+Calcula o valor equivalente em reais multiplicando a quantidade de dólares pela cotação do dólar.
+Exibe o valor em reais.
+
+5-Solicita ao usuário o valor da compra.
+Divide o valor da compra por 5 para obter o valor de cada prestação.
+Exibe o valor de cada prestação.
+
+6-Solicita ao usuário o preço de custo do produto e o percentual de acréscimo.
+Calcula o valor de venda adicionando ao preço de custo o valor do acréscimo (percentual sobre o preço de custo).
+Exibe o valor de venda.
+
+7-Solicita ao usuário o custo de fábrica do carro.
+Calcula o custo ao consumidor adicionando ao custo de fábrica o valor dos impostos (45%) e a percentagem do distribuidor (28%) sobre o custo de fábrica mais os impostos.
+Exibe o custo ao consumidor.
+
+8-O programa solicita ao usuário que insira 80 números.
+Durante a entrada dos números, o programa conta quantos números estão no intervalo entre 10 e 150, inclusive.
+No final, o programa exibe a quantidade de números que estão dentro desse intervalo
+
+9-Solicita ao usuário que insira as idades das pessoas.
+Para cada idade inserida, o programa verifica se a pessoa é maior ou menor de idade (considerando 18 anos como o limite).
+Exibe uma mensagem indicando se a pessoa é maior ou menor de idade.
+
+10- Solicita ao usuário que insira as idades das pessoas.
+Para cada idade inserida, o programa verifica se a pessoa é maior ou menor de idade (considerando 18 anos como o limite).
+Exibe uma mensagem indicando se a pessoa é maior ou menor de idade.
+
+11-Solicita ao usuário que insira o nome e o sexo de 56 pessoas.
+Durante a entrada dos dados, o programa conta quantos homens e mulheres foram inseridos.
+No final, o programa exibe o nome e o sexo de cada pessoa e o total de homens e mulheres.
+
+12-O programa solicita ao usuário que insira o ano e o valor de vários carros.
+Com base no ano do veículo, o programa calcula o desconto apropriado (12% para carros até 2000 e 7% para carros acima de 2000) e o valor final a ser pago pelo cliente.
+O programa continua a solicitar informações de carros até que o usuário decida parar.
+No final, o programa exibe o valor total de descontos e o número total de carros com ano até 2000.
+
+13-O programa solicita ao usuário que insira os dados (nome, sexo, idade e saúde) de N pessoas.
+Com base na idade e na saúde de cada pessoa, o programa determina se ela está apta ou não para cumprir o serviço militar obrigatório.
+Durante a entrada dos dados, o programa conta quantas pessoas estão aptas e quantas não estão aptas.
+No final, o programa exibe o total de pessoas aptas e não aptas
+
+14-Solicita ao usuário que insira o preço de custo e o preço de venda de 40 produtos.
+Para cada produto, o programa verifica se houve lucro, prejuízo ou empate, comparando o preço de custo com o preço de venda.
+Calcula e exibe a média de preço de custo e de preço de venda.
+
+15-O programa solicita ao usuário que insira o tipo de combustível e o valor de vários carros.
+Com base no tipo de combustível, o programa calcula o desconto apropriado (25% para álcool, 21% para gasolina e 14% para diesel) e o valor final a ser pago pelo cliente.
+O programa continua a solicitar informações de carros até que o usuário insira o valor zero para o veículo.
+No final, o programa exibe o total de descontos concedidos e o total pago pelos clientes.
+
+16-Este programa calcula o reajuste salarial para 584 funcionários de uma empresa com base em critérios específicos.
+Solicita ao usuário que insira o salário de cada funcionário.
+Calcula o novo salário de acordo com os critérios de reajuste especificados no exercício.
+Exibe o nome do funcionário e seu novo salário reajustado, além de calcular o aumento total na folha de pagamento da empresa
+
+17-Este programa calcula o novo salário de um funcionário com base em seu salário atual e no valor do salário mínimo.
+Solicita ao usuário que insira o nome do funcionário, seu salário atual e o valor do salário mínimo.
+Calcula o novo salário reajustado com base em porcentagens específicas de aumento.
+Exibe o nome do funcionário, o valor do reajuste e seu novo salário, além de calcular o aumento total na folha de pagamento da empresa.
+
+18-Neste programa, o usuário é solicitado a inserir o nome, sexo, idade e salário fixo de um funcionário.
+Com base nessas informações, o programa determina o abono a ser concedido ao funcionário, de acordo com o sexo e a idade, conforme a tabela fornecida no exercício.
+Em seguida, calcula e exibe o salário líquido do funcionário, que é o salário fixo mais o abono.
+
+19-Este programa solicita ao usuário que insira a idade de um nadador.
+Com base nessa idade, o programa classifica o nadador em uma das categorias específicas, como Infantil A, Infantil B, Juvenil A, Juvenil B ou Sênior, de acordo com as faixas etárias fornecidas no exercício.
+
+20-Este programa calcula o valor da conta de luz de uma pessoa com base no tipo de cliente (residência, comércio ou indústria) e na quantidade de KW/h consumidos.
+Solicita ao usuário que insira o tipo de cliente e a quantidade de KW/h consumidos.
+Calcula e exibe o valor da conta de luz com base na taxa correspondente ao tipo de cliente e na quantidade de KW/h consumidos.
+
+21-Neste exercício, o programa solicita ao usuário que insira a idade de um nadador.
+Com base na idade inserida, o programa classifica o nadador em uma das categorias especificadas, como Infantil A, Infantil B, Juvenil A, Juvenil B ou Sênior, de acordo com as faixas etárias fornecidas no exercício.
+Em seguida, o programa exibe a categoria correspondente à idade inserida.
+
+22-Este programa calcula o valor da conta de luz de uma pessoa com base no tipo de cliente (residência, comércio ou indústria) e na quantidade de KW/h consumidos.
+Solicita ao usuário que insira o tipo de cliente e a quantidade de KW/h consumidos.
+Calcula o valor da conta de luz multiplicando a quantidade de KW/h pelo valor do KW/h correspondente ao tipo de cliente.
+Por fim, exibe o valor da conta de luz.
+
+23-Neste exercício, o programa solicita ao usuário que insira o sexo, a altura e a idade de uma pessoa.
+Com base nessas informações, o programa calcula e exibe o peso ideal da pessoa, utilizando as fórmulas fornecidas no exercício, que variam de acordo com o sexo, a altura e a idade.
+
+24-Este programa calcula a nota final de um estudante com base em três notas atribuídas a um trabalho de laboratório, uma avaliação semestral e um exame final.
+Solicita ao usuário que insira o nome do estudante, o número de matrícula e as três notas.
+Calcula a nota final como a média ponderada das três notas, utilizando os pesos fornecidos no exercício.
+Em seguida, classifica a nota final do estudante em uma das categorias especificadas, como A, B, C, D ou R, com base nos intervalos de pontuação estabelecidos no exercício.
+Por fim, exibe o nome do estudante, o número de matrícula, a nota final e a classificação correspondente.
+
+25-Neste exercício, o programa classifica um pretendente em uma das nove categorias de seguro, com base na idade e no grupo de risco.
+Solicita ao usuário que insira o nome do pretendente, sua idade e seu grupo de risco.
+Com base nessas informações, o programa determina e exibe a categoria de seguro correspondente ao pretendente, de acordo com a tabela fornecida no exercício.
+
+26-Neste exercício, o programa determina e imprime os dados e a categoria de seguro de um pretendente com base em sua idade e grupo de risco.
+Solicita ao usuário que insira o nome, a idade e o grupo de risco do pretendente.
+Com base nessas informações, o programa determina a categoria de seguro correspondente ao pretendente, de acordo com a tabela fornecida no exercício.
+Em seguida, o programa exibe os dados do pretendente e sua categoria de seguro.
